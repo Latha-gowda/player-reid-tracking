@@ -103,12 +103,11 @@ Below are some sample outputs showing matched players from both videos.
 
 **Broadcast View (left) ↔ Tacticam View (right)**
 
-![Match Example 1](screenshots/Screenshot%20(65).png)
-
+![Match Example 1](screenshots/match_example_1.png)
 
 ---
 
 ### ✅ Example 2: Visualize Images
-![Match Example 2](screenshots/Screenshot%20(66).png)
+![Match Example 1](screenshots/match_example_2.png)
 
-![Match Example 2](screenshots/Screenshot%20(67).png)
+![Match Example 1](screenshots/match_example_3.png)
