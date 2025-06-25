@@ -108,5 +108,5 @@ Below are some sample outputs showing matched players from both videos.
 ---
 
 ### ✅ Example 2: Visualize Images
-![Match Example 2][(screenshots/Screenshot (66).png)](https://github.com/Latha-gowda/player-reid-tracking/blob/main/screenshots/Screenshot%20(65).png)
+![Match Example 2][(screenshots/Screenshot (66).png)]
 ![Match Example 2](screenshots/Screenshot (67).png)
