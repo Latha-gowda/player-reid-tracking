@@ -95,19 +95,15 @@ Y
 
 ---
 
-## 📸 Sample Screenshots
+## 📸 Screenshots
 
-Below are some sample outputs showing matched players from both videos.
+### 🎯 Player Matching Results
 
-### ✅ Example 1: Player ID Match
-
-**Broadcast View (left) ↔ Tacticam View (right)**
-
-![Match Example 1](screenshots/match_example_1.png)
+<img src="screenshots/match_example_1.png" width="700"/>
 
 ---
 
-### ✅ Example 2: Visualize Images
-![Match Example 1](screenshots/match_example_2.png)
+### 🎯 Visualized Matched Players
 
-![Match Example 1](screenshots/match_example_3.png)
+<img src="screenshots/match_example_2.png" width="700"/>
+<img src="screenshots/match_example_3.png" width="700"/>
